@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/run_all_tests.dir/example_test.cpp.o -o run_all_tests  /mnt/d/ANACONDA/Library/lib/gtest_main.lib /mnt/d/ANACONDA/Library/lib/gtest.lib 
